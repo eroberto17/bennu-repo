@@ -1,4 +1,5 @@
 <?php
+//test
 /* vim: set expandtab sw=4 ts=4 sts=4: */
 /**
  * Generic AJAX endpoint for getting information about database
@@ -12,6 +13,7 @@ use PhpMyAdmin\Core;
 use PhpMyAdmin\DatabaseInterface;
 use PhpMyAdmin\Response;
 use PhpMyAdmin\Util;
+
 
 if (! defined('ROOT_PATH')) {
     define('ROOT_PATH', __DIR__ . DIRECTORY_SEPARATOR);
